@@ -7,30 +7,12 @@
   </p>
 
   <p>
-    <a href="https://github.com/your_username/repo_name/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/your_username/repo_name.svg?style=for-the-badge" alt="Contributors">
-    </a>
-    <a href="https://github.com/your_username/repo_name/network/members">
-      <img src="https://img.shields.io/github/forks/your_username/repo_name.svg?style=for-the-badge" alt="Forks">
-    </a>
-    <a href="https://github.com/your_username/repo_name/stargazers">
-      <img src="https://img.shields.io/github/stars/your_username/repo_name.svg?style=for-the-badge" alt="Stars">
-    </a>
-    <a href="https://github.com/your_username/repo_name/issues">
-      <img src="https://img.shields.io/github/issues/your_username/repo_name.svg?style=for-the-badge" alt="Issues">
-    </a>
-    <a href="https://github.com/your_username/repo_name/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/your_username/repo_name.svg?style=for-the-badge" alt="License">
-    </a>
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained">
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
   </p>
   
-  <h4>
-    <a href="https://github.com/your_username/repo_name">View Demo</a>
-    <span> · </span>
-    <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
-    <span> · </span>
-    <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
-  </h4>
 </div>
 
 <br />
@@ -76,7 +58,7 @@ Follow these steps to set up the project locally.
     cd diamond-price-prediction
     ```
 
-2.  **Create a Virtual Environment (Optional but recommended)**
+2.  **Create a Virtual Environment**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
